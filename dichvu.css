@@ -1,0 +1,159 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.inbanner {
+    width: 100%;
+    height: 100px;
+}
+.inbanner img{
+    padding-left: 48%;
+}
+
+
+.menu ul li {
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    line-height: 35px;
+
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu ul li:hover a {
+    color: red;
+}
+.header img {
+    width: 100%;
+}
+.dichvu {
+    background-color: rgb(202, 202, 202);
+    height: 100px;   
+}
+.dichvu h3{
+    color: rgb(95, 95, 95);
+    margin:0;
+    padding:13px 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.dvbh h1{
+    padding-left: 41%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dvbh h1:hover{
+    color: rgb(178, 1, 1);
+}
+.dv{
+    padding-top: 20px;
+    width:100%;
+    height: 430px;
+    
+}
+.dv1{
+    width: 25%;
+    height: 300px;
+    
+}
+.dv1-right img{
+    float: left;
+    padding-left: 75px;
+}
+.dv1-right img:hover{
+    opacity: 0.6;
+}
+.dv1-left h2{
+    text-align: center;
+}
+.dv1-left h2:hover{
+    opacity: 0.8;
+    color: red;
+}
+.dv1-left p {
+    text-align: left;   
+    padding-top: 10px;
+    padding-left: 700px;
+    padding-right:100px;
+    font-size:large;
+}
+.footer{
+    padding-top:100px;
+}
+.footer h2{
+    padding:0 0 0 50px;
+}
+.footer h3{
+    padding-left: 50px;
+    color: gray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.footer .lh{
+  display: flex;
+  justify-content: none;
+  flex-wrap: wrap;
+  padding: 0px 0px 50px 100px; 
+  background-color: gray;
+}
+.lh .lh1{
+    margin: 10px;
+    width: 25%;
+    height: 250px;
+    padding-top:20px
+}
+.lh .lh1 h3{
+    text-align: left;
+    font-weight: bolder;
+    color: black;
+}
+.lh .lh1 p{
+    text-align: left;
+    color: white;
+    padding-left: 40px;
+}
+.lh .lh1 p:hover{
+    color: red;
+}
+.lh .lh1 h5{
+    text-align: left;
+    color: white;
+    padding-left: 40px;
+}
+.lh .lh2 h3 {
+    color: black;
+}
+.lh .lh2 iframe{
+    width: 300%;
+    height: 400px;
+}
+.lh .lh1 h5:hover{
+    color: red;
+}
+.linkfb{
+    background-color: rgb(46, 46, 46);
+    width: 100%;
+    height: 100px;
+}
+.linkfb .nhung h3{
+    padding-top: 10px;
+    color:rgb(0, 0, 0);
+    padding-left: 30px;
+}
+
+.duoi a img {
+    width: 30px;
+    height: 30px;
+    display: inline;
+    list-style: none;
+    padding-left:  40px;
+}
+.abcd iframe{
+    padding-top: 50px;
+}
+

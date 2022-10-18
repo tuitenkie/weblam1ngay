@@ -1,0 +1,211 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.inbanner {
+    width: 100%;
+    height: 100px;
+}
+
+.inbanner img {
+    padding-left: 48%;
+}
+
+.menu ul li {
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    line-height: 35px;
+
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu ul li:hover a {
+    color: red;
+}
+
+.logogiu {
+    background-image: url(./1.jpg);
+    width: 100%;
+    height: 500px;
+
+}
+
+.logogiu h1 {
+    color: white;
+    padding: 350px 0 0 120px;
+}
+.logogiu h2:hover{
+    color: red;
+}
+.logogiu h2 {
+    padding-left: 120px;
+    color: white;
+}
+
+.themmenu ul {
+    padding: 20px;
+    text-align: center;
+
+}
+
+.themmenu ul li {
+    list-style: none;
+    display: inline;
+    padding: 50px;
+    
+}
+.themmenu ul li a{
+    text-decoration: none;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+.themmenu ul li a:hover{
+    color: red;
+}
+.cacdongxe h2 {
+    text-align: center;
+}
+.tatcaxe{
+    display: flex;
+    justify-content: none
+    flex-wrap: wrap;
+    padding: 20px 20px;
+}
+.tatcaxe .xe1{
+    margin: 5px;
+    width:25%;
+    background-color: white;
+    height: 250px;
+}
+.xe1 h2:hover {
+    opacity: 0.5;
+}
+.xe1 img:hover{
+    opacity: 0.7;
+}
+.khampha {
+    width: 100%;
+}
+.khampha h2{
+    text-align: center;
+    padding-top: 30px;
+}
+.sukien{
+    display: flex;
+    justify-content: none
+    flex-wrap: wrap;
+    padding: 20px 20px;
+}
+.sukien .sukien1{
+    margin: 4px;
+    width: 25%;
+    background-color: white;
+    height: 250px;
+}
+.sukien1 img{
+    width: 100%;
+    height: 250px;
+}
+.sukien1 img:hover{
+    opacity: 0.7;
+}
+.sukien1 h4:hover{
+    opacity: 0.7;
+}
+
+a h4 {
+    color:black;
+    text-decoration: none;
+}
+
+.video{
+    width: 100%;
+    height: 100px;
+}
+.footer{
+    padding-top:100px;
+}
+.footer h2{
+    padding:0 0 0 50px;
+}
+.footer h3{
+    padding-left: 50px;
+    color: gray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.footer .lh{
+  display: flex;
+  justify-content: none;
+  flex-wrap: wrap;
+  padding: 0px 0px 50px 100px; 
+  background-color: gray;
+}
+.lh .lh1{
+    margin: 10px;
+    width: 25%;
+    height: 250px;
+    padding-top:20px
+}
+.lh .lh1 h3{
+    text-align: left;
+    font-weight: bolder;
+    color: black;
+}
+.lh .lh1 p{
+    text-align: left;
+    color: white;
+    padding-left: 40px;
+}
+.lh .lh1 p:hover{
+    color: red;
+}
+.lh .lh1 h5{
+    text-align: left;
+    color: white;
+    padding-left: 40px;
+}
+.lh .lh2 h3 {
+    color: black;
+}
+.lh .lh2 iframe{
+    width: 300%;
+    height: 400px;
+}
+.lh .lh1 h5:hover{
+    color: red;
+}
+.linkfb{
+    background-color: rgb(46, 46, 46);
+    width: 100%;
+    height: 100px;
+}
+.linkfb .nhung h3{
+    padding-top: 10px;
+    color:rgb(0, 0, 0);
+    padding-left: 30px;
+}
+
+.duoi a img {
+    width: 30px;
+    height: 30px;
+    display: inline;
+    list-style: none;
+    padding-left:  40px;
+}
+.abcd iframe{
+    padding-top: 50px;
+}
+
+
+

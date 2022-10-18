@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.inbanner {
+    width: 100%;
+    height: 100px;
+}
+
+.inbanner img {
+    padding-left: 48%;
+}
+
+.menu ul li {
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    line-height: 35px;
+
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu ul li:hover a {
+    color: red;
+}
+.pd{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(220, 218, 218);
+    margin: 0;
+    padding: 0;
+}
+.pd h2{
+    color: rgb(95, 95, 95);
+    padding:15px 0 0 30px;
+}
+.trungtam{
+    width: 25%;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 70px 7.14286% 50px;
+    line-height: 30px;
+}
+.text p:hover {
+    opacity: 0.9;
+    color:rgb(225, 41, 41);
+}
+.text h4{
+    text-decoration: underline;
+    
+}
+.video{
+    width: 100%;
+    height: 300px;
+    
+}
+.video iframe{
+    width: 40%;
+    height: 300px;
+    padding-left: 10%;
+}
+
+
+
+
+
+
+
+.footer{
+    padding-top:100px;
+}
+.footer h2{
+    padding:0 0 0 50px;
+}
+.footer h3{
+    padding-left: 50px;
+    color: gray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.footer .lh{
+  display: flex;
+  justify-content: none;
+  flex-wrap: wrap;
+  padding: 0px 0px 50px 100px; 
+  background-color: gray;
+}
+.lh .lh1{
+    margin: 10px;
+    width: 25%;
+    height: 250px;
+    padding-top:20px
+}
+.lh .lh1 h3{
+    text-align: left;
+    font-weight: bolder;
+    color: black;
+}
+.lh .lh1 p{
+    text-align: left;
+    color: white;
+    padding-left: 40px;
+}
+.lh .lh1 p:hover{
+    color: red;
+}
+.lh .lh1 h5{
+    text-align: left;
+    color: white;
+    padding-left: 40px;
+}
+.lh .lh2 h3 {
+    color: black;
+}
+.lh .lh2 iframe{
+    width: 300%;
+    height: 400px;
+}
+.lh .lh1 h5:hover{
+    color: red;
+}
+.linkfb{
+    background-color: rgb(46, 46, 46);
+    width: 100%;
+    height: 100px;
+}
+.linkfb .nhung h3{
+    padding-top: 10px;
+    color:rgb(0, 0, 0);
+    padding-left: 30px;
+}
+
+.duoi a img {
+    width: 30px;
+    height: 30px;
+    display: inline;
+    list-style: none;
+    padding-left:  40px;
+}
+.abcd iframe{
+    padding-top: 50px;
+}
